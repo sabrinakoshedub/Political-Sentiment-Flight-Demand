@@ -1,0 +1,9 @@
+{
+  "ctry_fm_filter": "CA",
+  "ctry_to_filter": "US",
+  "ramp_start_date": "2025-01-01",
+  "ramp_start_date_nc": "2025-02-01",
+  "exog_name": "TrumpEffect"
+}
+
+
